@@ -12,8 +12,6 @@ It is necessary to add ESP32 library to the Arduino IDE by Click `Tools -> Devel
 
 Then, install the PubSubClient library by `Project -> Load library -> Library manager... -> Search PubSubClient -> Install PubSubClient by Nick O’Leary`
 
-![](ihttps://assets.emqx.com/images/cb7b0228aa91bf300eec5a725da159d3.png?imageMogr2/thumbnail/1520x)
-
----
+![](https://assets.emqx.com/images/cb7b0228aa91bf300eec5a725da159d3.png?imageMogr2/thumbnail/1520x)
 
 [^1]: https://www.emqx.com/en/blog/esp32-connects-to-the-free-public-mqtt-broker
