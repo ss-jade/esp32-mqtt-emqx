@@ -6,7 +6,7 @@ In this project, we will connect ESP32 to a free public MQTT server operated and
 ![](https://assets.emqx.com/images/d6265585d6257fc02c722fe45888bdac.png?imageMogr2/thumbnail/1520x)
 
 # Arduino Configuration 
-It is necessary to add ESP32 library to the Arduino IDE by Click Tools -> Development Board -> Development Board Management -> Search ESP32 -> Install
+It is necessary to add ESP32 library to the Arduino IDE by Click `Tools -> Development Board -> Development Board Management -> Search ESP32 -> Install`
 
 ![](https://assets.emqx.com/images/99c502b39ef7d21dc75632e42aa89708.png?imageMogr2/thumbnail/1520x)
 
@@ -14,8 +14,6 @@ Then, install the PubSubClient library by `Project -> Load library -> Library ma
 
 ![](ihttps://assets.emqx.com/images/cb7b0228aa91bf300eec5a725da159d3.png?imageMogr2/thumbnail/1520x)
 
-
-
-
+---
 
 [^1]: https://www.emqx.com/en/blog/esp32-connects-to-the-free-public-mqtt-broker
